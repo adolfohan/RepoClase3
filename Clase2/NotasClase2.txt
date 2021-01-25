@@ -1,0 +1,7 @@
+git init. 
+
+Este convierte a una carpeta en repo
+
+git "name" 
+
+Crea carpeta nueva y la convierte en repo
